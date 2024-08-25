@@ -5,8 +5,7 @@ Overview
 The objective of this project is to predict customer spending based on a set of features provided in the dataset. The goal is to leverage machine learning models to accurately predict future spending habits, which can be useful for businesses to optimize their operations and target customers more effectively. This project utilizes various regression techniques to model and predict spending patterns.
 
 Project Structure
-graphql
-Copy code
+
 Spend-Prediction/
 │
 ├── Spend Prediction.ipynb          # Jupyter notebook containing the code for data analysis and model training
@@ -52,15 +51,13 @@ matplotlib
 seaborn
 Installation:
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/shaileshkry/Spend-Prediction.git
 Install the required libraries:
 
 pip install pandas numpy scikit-learn matplotlib seaborn
 Open the Jupyter Notebook:
-bash
-Copy code
+
 jupyter notebook "Spend Prediction.ipynb"
 Usage
 Open the Jupyter notebook (Spend Prediction.ipynb).
